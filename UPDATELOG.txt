@@ -1,0 +1,38 @@
+rac v1.3
+Updated info text to show verison number with it.
+Also added info for what packages were used.
+
+NOTE: exe file was not updated 
+
+rac 1.4
+Bug where if keyword matched the first file the program would say that no files matched has been patched.
+More examples have been added
+Bug where email would not send in the report and send results function has been patched
+EXE file has been updated
+
+rac 1.5
+Bug where save function wouldnt acknowledge that an intended age hasnt been entered has been fixed
+Bug where if the save function was exited at any point then reopened it would start of from the same point rather than restarting has been fixed
+EXE file updated
+
+rac 1.6 
+updated info and tutorial for high density texts
+
+
+rac version 2 - release version
+
+new logging system for program
+	-Automatic logging system
+	-runs on program
+changed .py to .pyw to hide windows shell when running it
+updated report message to include shell info
+included warning for foreign symbols
+included error box for foreign symbols when saving
+updated icon logo
+updated report box to not include shell info
+updated report function to include automatic log instead of requiring user to enter the logs
+new logo with red and black theme 
+
+
+
+

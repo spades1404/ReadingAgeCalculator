@@ -1,0 +1,23 @@
+These are the error codes that could come up in the program.
+
+Error 1 - User did not enter filename at createFF func
+Error 2 - There was a malfunction during the mailing process. Depends on what program says the exception is. FIX - https://myaccount.google.com/u/2/lesssecureapps?pageId=none
+Error 3 - User did not enter a number for ira in save func.
+Error 4 - User did not enter an ira in save func.
+Error 5 - User entered an already entered keyword during save.
+Error 6 - User did not enter anything during save.
+Error 7 - The file extension was not a txt.
+Error 8 - There are no stored files (Search Keywords)
+Error 9 - No search query entered (Search Keywords)
+Error 10 - There are no stored files (Search Age)
+Error 11 - There are no stored files (Show Lib)
+Error 12 - Not enough text entered
+Error 13 (Shown as Err13) - Division error in reading age count - not shown in a box (This actually shouldnt show at all so if it does uh oh)
+Error 14 -(Shown as Err14) - No intended Age entered in age diff
+Error 15 - Foreign Symbols in text during save
+Error 16 - Empty Value
+Error 17 - Empty Value
+Error 18 - Empty Value
+Error 19 - Empty Value
+Error 20 - Empty Value
+ 
